@@ -1,4 +1,5 @@
 # Zama FHE Protocol Technical Guides
+# Thanks to 0xmoei
 I regularly update this repository with detailed guides on technical tasks related to the Zama protocol.
 
 ## Environment
